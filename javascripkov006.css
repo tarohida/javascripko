@@ -1,0 +1,14 @@
+body{
+    background-color:aliceblue;
+    background-image: url(javascripkov005.png);
+}
+div#layer1{
+    margin: 30px;
+    padding: 10px 20px 10px 20px;
+    background-color: rgba(255,255,255,0.7);
+}
+p#main{
+    margin-top:30px;
+    margin-bottom: 0px;
+    padding:5px;
+}
